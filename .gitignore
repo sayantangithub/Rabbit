@@ -1,5 +1,5 @@
-logs
-*.logs
+# logs
+*.log
 
 # Node Modules
 frontend/node_modules
